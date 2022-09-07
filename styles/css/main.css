@@ -1,0 +1,24 @@
+.name-layer > a > span {
+  color: #37bbed;
+}
+
+li.active > .capa-title > .name-layer > a > span {
+  color: #fafafa;
+}
+
+@media (max-width: 768px) and (orientation: portrait) {
+  #top-left-logo {
+    left: 50px;
+    background-size: 180px;
+  }
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+  #top-left-logo {
+    left: 250px;
+  }
+}
+
+.active a {
+  color: white;
+}
