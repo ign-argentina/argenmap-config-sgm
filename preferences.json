@@ -78,10 +78,13 @@
     "srcLogoMini": "src/config/styles/images/logo.png",
     "miniHeight": "",
     "miniWidth": "",
-    "ministyle": "/*filter: drop-shadow(1px 1px 1px #103847); width: 278px;*/"
+    "ministyle": "/*filter: drop-shadow(1px 1px 1px #103847); width: 278px;*/",
+    "link": "https://www.argentina.gob.ar/"
   },
   "logoText": {
-    "content": "Servicio Geográfico Militar"
+    "content": "Servicio Geográfico Militar",
+    "title": "Servicio Geográfico Militar",
+    "link": "#"
   },
   "title": "Servicio Geográfico Militar - Remonta y Veterinaria",
   "website": "",
