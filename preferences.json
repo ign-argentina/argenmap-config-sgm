@@ -124,6 +124,11 @@
         "name": "Área de influencia",
         "geoprocess": "buffer",
         "namePrefix": "area_de_influencia_"
+      },
+      {
+        "name": "Perfil de Elevación",
+        "geoprocess": "elevationProfile",
+        "namePrefix": "profile_"
       }
     ]
   },
